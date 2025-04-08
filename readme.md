@@ -42,7 +42,7 @@ O projeto também inclui uma classe de testes (`Main.java`), que executa ao meno
 
 ## Diagrama de Classes
 
-![Diagrama de Classes](./image.png)
+![Diagrama de Classes](./DiagramaClasses.svg)
 
 
 ## Objetivos de Aprendizagem
